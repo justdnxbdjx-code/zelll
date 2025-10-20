@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+azure-storage-blob
+azure-search-documents
+pyodbc
+python-dotenv
